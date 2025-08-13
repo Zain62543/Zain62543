@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Zain Khan
+# Hi there 👋, I'm Zain Ud Din
 
-🎓 **MPhil in Physics** | 🧠 **Data Science Enthusiast** | 🪐 Physics + AI
+🎓 **MPhil in Condensed Matter Theory** | 🧠 **Data Science Enthusiast** | 🪐 Physics + AI
 
 ---
 
