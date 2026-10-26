@@ -1,83 +1,51 @@
-# Hi there 👋, I'm Zain Ud Din
+# Zain Ud Din
+### Data Science • Machine Learning • Scientific Computing
 
-### 🔬 MPhil in Condensed Matter Theory | Scientific Computing | Data Science & AI
+I build Python workflows for **data analysis, machine learning, scientific data processing, and computational materials research**. My background is in condensed-matter physics, and I enjoy turning complex datasets and simulation outputs into reproducible analysis and clear visualizations.
 
-I have an academic background in condensed matter physics and computational physics, with a strong interest in using Python, data analysis, and machine learning to solve scientific and engineering problems.
+**Open to freelance projects** involving data cleaning, exploratory data analysis (EDA), visualization, classical ML, Python automation, and scientific-computing workflows.
 
-I'm exploring the intersection of **physics, materials science, and artificial intelligence**, while building practical projects in scientific computing and data science.
-
----
-
-## 👨‍🔬 About Me
-
-- 🎓 MPhil in Condensed Matter Theory
-- 🔬 Interested in Density Functional Theory (DFT) and computational materials science
-- 🐍 Developing Python skills for scientific programming and data analysis
-- 📊 Interested in data visualization, statistical analysis, and machine learning
-- 🤖 Exploring AI-driven materials discovery and materials informatics
-- 💼 Open to freelance projects involving Python, data analysis, scientific computing, and machine learning
+- **Focus:** Python, pandas, NumPy, Matplotlib, scikit-learn, Jupyter
+- **Scientific domain:** DFT/VASP data analysis, computational materials science, materials informatics
+- **Education:** MPhil Physics — Condensed Matter Physics
 
 ---
 
-## 🛠️ Technical Skills
+## Featured work
 
-**Programming**
-- Python
-- NumPy, Pandas
-- Matplotlib and Seaborn
+| Project | What it demonstrates |
+|---|---|
+| [Random Forest Classification](https://github.com/Zain62543/Random-forest-classifiers-) | Classification workflow with Python and scikit-learn; includes a script and Jupyter notebook |
+| [Python Data Analysis](https://github.com/Zain62543/Python-Data-Analysis) | Repository reserved for data-analysis projects and notebooks |
+| [Portfolio / Profile](https://github.com/Zain62543/Zain62543) | Profile, technical focus, and selected work |
 
-**Data Science & Machine Learning**
-- Data cleaning and exploratory data analysis
-- Data visualization
-- Scikit-learn
-- Classification, regression, and model evaluation
-
-**Computational Physics & Materials Science**
-- Density Functional Theory (DFT)
-- VASP and computational materials modeling
-- Numerical methods and simulation data analysis
-- Materials informatics
-
-**Tools**
-- Jupyter Notebook
-- Google Colab
-- Git and GitHub
+### Research-oriented computing
+My research background includes first-principles density functional theory (DFT), VASP simulations, and analysis of mechanical and electronic materials properties. I am interested in applying data science and machine learning to scientific and engineering datasets.
 
 ---
 
-## 🚀 Featured Projects
+## Services I can help with
 
-### 📊 Python Data Analysis & Visualization
-Developing Python workflows to clean datasets, perform exploratory analysis, and communicate insights through meaningful visualizations.
+- **Data analysis:** cleaning, missing-value handling, exploratory analysis, summary statistics
+- **Visualization:** publication-ready plots, dashboards/figures, and clear notebook reports
+- **Machine learning:** baseline classification/regression, validation, model comparison, and evaluation
+- **Python automation:** scripts for repetitive data-processing and reporting tasks
+- **Scientific computing:** numerical analysis and processing of simulation data, including DFT outputs
 
-### 🤖 Machine Learning with Python
-Building classification and regression workflows using Scikit-learn, including data preprocessing, model training, and performance evaluation.
-
-### 🔬 Computational Materials Science
-Exploring Python-based analysis of DFT calculations, materials properties, and computational materials datasets.
-
-> Visit my repositories to explore my code and project progress. More projects and documentation will be added as I develop my portfolio.
+For each project, I aim to provide readable code, documented assumptions, reproducible steps, and a concise explanation of results.
 
 ---
 
-## 💼 Freelance Services
+## Tools
 
-I am interested in helping clients with:
-
-- Python data cleaning and analysis
-- Data visualization and Jupyter Notebook reports
-- Machine-learning model implementation and evaluation
-- Scientific Python programming and numerical calculations
-- Computational physics and materials simulation data analysis
+**Python** · **NumPy** · **pandas** · **Matplotlib** · **Seaborn** · **scikit-learn** · **Jupyter Notebook** · **Git/GitHub** · **VASP**
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
-- 💼 **LinkedIn:** [Zain Ud Din](https://www.linkedin.com/in/zain-ud-din-9152a2299/)
-- 📧 **Email:** [marwatzain543@gmail.com](mailto:marwatzain543@gmail.com)
-- 💻 **GitHub:** [Zain62543](https://github.com/Zain62543)
+- **LinkedIn:** [Zain Ud Din](https://www.linkedin.com/in/zain-ud-din-9152a2299/)
+- **Email:** [marwatzain543@gmail.com](mailto:marwatzain543@gmail.com)
+- **GitHub:** [@Zain62543](https://github.com/Zain62543)
 
----
-
-⭐ *Where physics meets computation, new possibilities emerge.*
+*Interested in practical, well-documented solutions at the intersection of data, machine learning, and science.*
