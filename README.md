@@ -16,8 +16,7 @@ I build Python workflows for **data analysis, machine learning, scientific data 
 | Project | What it demonstrates |
 |---|---|
 | [Random Forest Classification](https://github.com/Zain62543/Random-forest-classifiers-) | Classification workflow with Python and scikit-learn; includes a script and Jupyter notebook |
-| [Python Data Analysis](https://github.com/Zain62543/Python-Data-Analysis) | Repository reserved for data-analysis projects and notebooks |
-| [Portfolio / Profile](https://github.com/Zain62543/Zain62543) | Profile, technical focus, and selected work |
+| [GitHub Profile](https://github.com/Zain62543) | Technical focus, services, and selected work |
 
 ### Research-oriented computing
 My research background includes first-principles density functional theory (DFT), VASP simulations, and analysis of mechanical and electronic materials properties. I am interested in applying data science and machine learning to scientific and engineering datasets.
