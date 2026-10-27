@@ -44,7 +44,7 @@ I turn messy numerical and experimental data into clean analysis, reproducible c
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**ML Classification Benchmark**](https://github.com/Zain62543/Random-forest-classifiers-) | Installable Python package and CLI that benchmarks Random Forest, Logistic Regression and Decision Tree on any CSV: cross-validation, tuning, held-out metrics and figures in one command. Tested, with CI. | `scikit-learn` `pandas` `pytest` `GitHub Actions` |
+| [**ML Classification Benchmark**](https://github.com/Zain62543/ml-classification-benchmark) | Installable Python package and CLI that benchmarks Random Forest, Logistic Regression and Decision Tree on any CSV: cross-validation, tuning, held-out metrics and figures in one command. Tested, with CI. | `scikit-learn` `pandas` `pytest` `GitHub Actions` |
 | [**Data Science & ML Notebooks**](https://github.com/Zain62543/Python-Data-Analysis) | 14 documented projects: data cleaning, missing-data imputation benchmarked by masking, leak-free supervised learning, clustering validation, plus CNN and transfer-learning notebooks. Each has its own README. | `pandas` `scikit-learn` `TensorFlow` `Jupyter` |
 
 ## Background
