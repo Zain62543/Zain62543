@@ -31,6 +31,10 @@ I turn messy numerical or experimental data into clean analysis, reproducible co
 Installable Python package and CLI that benchmarks Random Forest, Logistic Regression and Decision Tree models on any CSV: cross-validation, grid-search tuning, held-out metrics and figures in one command.
 `scikit-learn` · `pandas` · `pytest` · `GitHub Actions CI` · `pyproject packaging`
 
+### [Data Science & ML Notebooks](https://github.com/Zain62543/Python-Data-Analysis)
+14 documented projects (EDA and missing-data handling, supervised and unsupervised learning, CNNs and transfer learning) plus a topic-grouped learning archive. Built from training exercises on standard datasets; each project has its own README, and `DATA.md` lists every dataset with its source.
+`pandas` · `scikit-learn` · `TensorFlow/Keras` · `Jupyter`
+
 ---
 
 ## Skills
