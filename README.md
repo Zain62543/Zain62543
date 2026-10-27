@@ -1,62 +1,62 @@
-<h1 align="center">Zain Ud Din</h1>
-<p align="center"><b>Scientific Computing · Data Science · Machine Learning</b><br>
-MPhil Physics (Condensed Matter) · 5 years of computational materials research (DFT / VASP)</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zain-ud-din-9152a2299/">LinkedIn</a> ·
-  <a href="mailto:marwatzain543@gmail.com">Email</a>
-</p>
+# Zain Ud Din
 
----
+### Scientific Computing · Data Science · Machine Learning
 
-## What I do for clients
+MPhil in Condensed Matter Physics · ~5 years of computational materials research (DFT / VASP)
 
-I turn messy numerical or experimental data into clean analysis, reproducible code and clear reports. My background is quantitative research, so I am comfortable with the maths behind the models, not just the library calls.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ud-din-9152a2299/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwatzain543@gmail.com)
+![Status](https://img.shields.io/badge/Freelance-Open%20to%20projects-2EA44F?style=for-the-badge)
 
-| Service | What you get |
-|---|---|
-| **Data cleaning & analysis** | Cleaned dataset, exploratory analysis, and a Jupyter notebook or PDF with plots and findings |
-| **Machine-learning models** | Classification / regression with scikit-learn: proper train/test split, cross-validation, tuning, honest metrics and a short write-up |
-| **Scientific Python & numerical computing** | NumPy / SciPy scripts for simulation, curve fitting, numerical methods and automation of repetitive calculations |
-| **Simulation-data post-processing** | Parsing and plotting output from DFT/VASP and other computational-physics codes (band structure, DOS, energies, convergence tests) |
-| **Plots & figures** | Clean, publication-quality Matplotlib figures for papers, theses and reports |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**How I work:** clear scope before I start, readable and commented code, reproducible results (fixed seeds, pinned requirements), and plain-language explanations of what the results do and do not show.
-
----
-
-## Featured project
-
-### [ML Classification Benchmark](https://github.com/Zain62543/Random-forest-classifiers-)
-Installable Python package and CLI that benchmarks Random Forest, Logistic Regression and Decision Tree models on any CSV: cross-validation, grid-search tuning, held-out metrics and figures in one command.
-`scikit-learn` · `pandas` · `pytest` · `GitHub Actions CI` · `pyproject packaging`
-
-### [Data Science & ML Notebooks](https://github.com/Zain62543/Python-Data-Analysis)
-14 documented projects (EDA and missing-data handling, supervised and unsupervised learning, CNNs and transfer learning) plus a topic-grouped learning archive. Built from training exercises on standard datasets; each project has its own README, and `DATA.md` lists every dataset with its source.
-`pandas` · `scikit-learn` · `TensorFlow/Keras` · `Jupyter`
+</div>
 
 ---
 
-## Skills
+## About
 
-**Python & data:** NumPy · Pandas · Matplotlib · Seaborn · Jupyter · Git/GitHub · Linux & Bash
-**Machine learning:** scikit-learn pipelines · cross-validation · hyperparameter tuning · model evaluation
-**Scientific computing:** numerical methods · simulation data analysis · DFT (VASP) · materials science
+I turn messy numerical and experimental data into clean analysis, reproducible code and clear reports. My background is quantitative research, so I work comfortably with the mathematics behind the models, not just the library calls, and I report results with their uncertainty rather than a single flattering number.
 
-**Currently building:** PyTorch, SQL, Docker and model deployment, plus machine learning for materials discovery.
+## Services
 
----
+| | Service | What you get |
+|---|---|---|
+| 🧹 | **Data cleaning & analysis** | Cleaned dataset, exploratory analysis, and a notebook or PDF with plots and findings |
+| 🤖 | **Machine-learning models** | Classification / regression with scikit-learn: leak-free splits, cross-validation, tuning, honest metrics and a short write-up |
+| 🔬 | **Scientific Python** | NumPy / SciPy scripts for simulation, curve fitting, numerical methods and automation |
+| ⚛️ | **Simulation post-processing** | Parsing and plotting DFT / VASP output: energies, DOS, band structure, convergence tests |
+| 📈 | **Figures** | Publication-quality Matplotlib figures for papers, theses and reports |
+
+**How I work:** scope agreed before I start · readable, commented code · fixed seeds and listed dependencies for reproducibility · plain-language explanation of what the results do and do not show.
+
+## Featured work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**ML Classification Benchmark**](https://github.com/Zain62543/Random-forest-classifiers-) | Installable Python package and CLI that benchmarks Random Forest, Logistic Regression and Decision Tree on any CSV: cross-validation, tuning, held-out metrics and figures in one command. Tested, with CI. | `scikit-learn` `pandas` `pytest` `GitHub Actions` |
+| [**Data Science & ML Notebooks**](https://github.com/Zain62543/Python-Data-Analysis) | 14 documented projects: data cleaning, missing-data imputation benchmarked by masking, leak-free supervised learning, clustering validation, plus CNN and transfer-learning notebooks. Each has its own README. | `pandas` `scikit-learn` `TensorFlow` `Jupyter` |
 
 ## Background
 
-- MPhil Physics, Condensed Matter Physics (BSc Mathematics & Physics, MSc Physics)
-- ~5 years of VASP-based DFT research: mechanical properties, catalysis and interfaces
-- Formal training in Data Science and AI
+- **MPhil, Condensed Matter Physics** (BSc Mathematics & Physics, MSc Physics)
+- **~5 years of VASP-based DFT research:** mechanical properties, catalysis and material interfaces
+- **Formal training** in Data Science and AI
 
----
+**Currently building:** PyTorch, SQL, Docker and model deployment, and machine learning for materials discovery.
 
 ## Work with me
 
-I am available for freelance projects. Send a short description of your data and what you want to learn from it, and I will reply with a scope and estimate.
+Send a short description of your data and what you want to learn from it, and I will reply with a scope and estimate.
 
 📧 [marwatzain543@gmail.com](mailto:marwatzain543@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/zain-ud-din-9152a2299/)
