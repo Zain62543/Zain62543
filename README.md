@@ -7,7 +7,7 @@
 MPhil in Condensed Matter Physics · ~5 years of computational materials research (DFT / VASP)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ud-din-9152a2299/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwatzain543@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwatzain8@gmail.com)
 ![Status](https://img.shields.io/badge/Freelance-Open%20to%20projects-2EA44F?style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -59,4 +59,4 @@ I turn messy numerical and experimental data into clean analysis, reproducible c
 
 Send a short description of your data and what you want to learn from it, and I will reply with a scope and estimate.
 
-📧 [marwatzain543@gmail.com](mailto:marwatzain543@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/zain-ud-din-9152a2299/)
+📧 [marwatzain8@gmail.com](mailto:marwatzain8@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/zain-ud-din-9152a2299/)
