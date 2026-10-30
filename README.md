@@ -46,6 +46,7 @@ I turn messy numerical and experimental data into clean analysis, reproducible c
 |---|---|---|
 | [**ML Classification Benchmark**](https://github.com/Zain62543/ml-classification-benchmark) | Installable Python package and CLI that benchmarks Random Forest, Logistic Regression and Decision Tree on any CSV: cross-validation, tuning, held-out metrics and figures in one command. Tested, with CI. | `scikit-learn` `pandas` `pytest` `GitHub Actions` |
 | [**Data Science & ML Notebooks**](https://github.com/Zain62543/Python-Data-Analysis) | 14 documented projects: data cleaning, missing-data imputation benchmarked by masking, leak-free supervised learning, clustering validation, plus CNN and transfer-learning notebooks. Each has its own README. | `pandas` `scikit-learn` `TensorFlow` `Jupyter` |
+| [**arXiv Abstracts NLP Analysis**](https://github.com/Zain62543/arxiv-abstracts-nlp-analysis) | Text analysis of 7,701 arXiv AI/ML abstracts: TF-IDF, LDA, sentence embeddings and BERTopic, plus theme and model-family prevalence, with explicit checks on how uneven the data is over time. | `scikit-learn` `sentence-transformers` `BERTopic` `pandas` |
 
 ## Background
 
